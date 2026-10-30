@@ -19,4 +19,3 @@ tests/
 - [ ] `src/utils.py:4` - Add salt and pepper to password hashing for security
 - [ ] `tests/test_utils.py:4` - Add edge case tests for empty password
 - [ ] `tests/test_utils.py:8` - Mock database for integration tests
-
